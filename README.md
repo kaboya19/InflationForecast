@@ -1,5 +1,6 @@
 # InflationForecast
 7 farklı regresyon modeli ve 18 adet ekonomik değişken kullanarak Türkiye'nin gelecek 12 aylık enflasyonunu tahmin etmeye çalışıyoruz.
+
 Kullanılan Modeller:
 1) Lineer Regresyon
 
@@ -17,5 +18,7 @@ Kullanılan Modeller:
 
 8) SARIMAX
 
-9)Prophet
+9) Prophet
+
+
 
