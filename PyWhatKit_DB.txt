@@ -1,0 +1,139 @@
+Date: 16/12/2023
+Time: 14:46
+Group ID: 9054163789363
+Image: forecast.png
+Caption: Yo, the data has been updated.16/12/2023 14:46:03
+--------------------
+Date: 16/12/2023
+Time: 14:48
+Group ID: 054163789363
+Image: forecast.png
+Caption: Yo, the data has been updated.16/12/2023 14:48:12
+--------------------
+Date: 16/12/2023
+Time: 14:49
+Phone Number: +9054163789363
+Image: forecast.png
+Caption: Yo, the data has been updated.16/12/2023 14:49:58
+--------------------
+Date: 16/12/2023
+Time: 14:52
+Phone Number: +9054163789363
+Message: Yo, the data has been updated.16/12/2023 14:51:52
+--------------------
+Date: 16/12/2023
+Time: 14:52
+Phone Number: +9054163789363
+Message: Yo, the data has been updated.
+--------------------
+Date: 16/12/2023
+Time: 14:55
+Phone Number: +9054163789363
+Message: Yo, the data has been updated.
+--------------------
+Date: 16/12/2023
+Time: 14:57
+Phone Number: +9054163789363
+Message: Yo, the data has been updated.
+--------------------
+Date: 16/12/2023
+Time: 15:10
+Phone Number: +905416378963
+Message: Hello
+--------------------
+Date: 16/12/2023
+Time: 15:13
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Yo, the data has been updated.
+--------------------
+Date: 16/12/2023
+Time: 15:34
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:36
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:37
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:39
+Phone Number: +905416378963
+Image: ./forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:46
+Phone Number: +905416378963
+Image: C:/Users/Bora/Documents/GitHub/InflationForecast/forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:47
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 15:48
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:10
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:11
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:16
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:24
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:29
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:34
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 16:49
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):2.882023 Sonu Tahmini:64.842024 Sonu Tahmini:42.52
+--------------------
+Date: 16/12/2023
+Time: 19:4
+Phone Number: +905416378963
+Image: forecast.png
+Caption: Aralık Enflasyon Tahmini(Aylık):%2.902023 Sonu Tahmini:%64.902024 Sonu Tahmini:%42.99
+--------------------
