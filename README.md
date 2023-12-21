@@ -16,9 +16,13 @@ Kullanılan Modeller:
 
 7) SGD Regresyon
 
-8) SARIMAX
+8) Robust Regression
 
-9) Prophet
+9) LSTM
+
+10) SARIMAX
+
+11) Prophet
 
 
 
